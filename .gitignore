@@ -6,6 +6,6 @@
 *.xlsx
 
 # si quisiera ignorar una carpeta
-nombre_carpeta/
+nombrewdhoquwldg_carpeta/
 
 datos/*.json
